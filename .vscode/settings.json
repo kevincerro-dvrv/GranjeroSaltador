@@ -51,5 +51,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "GranjeroSaltador.sln"
+    "dotnet.defaultSolution": "GranjeroSaltador.sln",
+    "dotnet.preferCSharpExtension": true
 }
